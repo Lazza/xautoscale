@@ -54,8 +54,8 @@ if your environment supports it):
 
 ## License
 
-This project is dedicated to the public domain. See the `LICENSE` file for the
-full legal text.
+This project is released into the public domain under The Unlicense. See the
+`LICENSE` file for the full legal text.
 
 [caine]: https://www.caine-live.net/
 [drift]: https://www.driftlinux.org/

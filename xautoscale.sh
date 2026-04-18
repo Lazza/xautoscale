@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Created by Andrea Lazzarotto.
-# Released under CC0 1.0 (public domain).
+# Released under the Unlicense (public domain).
 
 THRESHOLD=1500
 SCALE="0.5x0.5"
