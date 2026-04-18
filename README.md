@@ -54,7 +54,7 @@ if your environment supports it):
 
 ## License
 
-This project is released into the public domain under The Unlicense. See the
+This project is released into the public domain under the Unlicense. See the
 `LICENSE` file for the full legal text.
 
 [caine]: https://www.caine-live.net/
